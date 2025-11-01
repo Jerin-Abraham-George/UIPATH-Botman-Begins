@@ -1,4 +1,4 @@
-# 🤖 UiPath-Projects  
+# 🤖 UiPath-Botman-Begins
 This repository presents a structured collection of automation workflows developed using UiPath Studio. It serves as a personal learning portfolio, documenting my progress in understanding and applying robotic process automation (RPA) principles.
 
 Each project reflects practical experimentation with core UiPath capabilities, including user input handling, API integration, conditional logic, and data extraction. While I am in the early stages of mastering UiPath, the workflows are thoughtfully constructed and professionally documented to ensure clarity, scalability, and continuous improvement.
