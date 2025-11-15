@@ -111,3 +111,5 @@ The primary objectives of this automation are to:
 - Suggested Outfit: "The Temperature is 16 Degree Celsius. The weather is Clear. Bring a Light Jacket if you want"
 
 ---
+
+🌡️👕 *"Let the bot decide — because your wardrobe is tired of guessing."*
