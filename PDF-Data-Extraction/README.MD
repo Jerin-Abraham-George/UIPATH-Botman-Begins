@@ -95,3 +95,5 @@ The automation generates a structured Excel file containing invoice metadata ext
 ![Workflow Diagram](https://github.com/Jerin-Abraham-George/UiPath-Projects/blob/main/PDF-Data-Extraction/Main%20Sequence.jpg)
 
 ---
+
+📄🤖 *"PDFs beware, the robot’s reading you."*
