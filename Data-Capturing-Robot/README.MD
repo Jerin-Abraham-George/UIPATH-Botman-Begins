@@ -7,6 +7,8 @@ The robot reads structured customer data from an Excel file and automates form f
 
 This project demonstrates **parallel execution**, **data-driven automation**, and **enterprise-grade UI automation**.
 
+https://github.com/user-attachments/assets/022a129c-8fef-48db-ae48-bef4cfd86f12
+
 ---
 
 ## 🎯 Objectives
