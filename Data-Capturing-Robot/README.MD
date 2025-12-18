@@ -127,7 +127,7 @@ The primary objectives of this automation are to:
 ![Web Data Capturing](WebDataCapturing.jpg)
 
 ### 🔹 Desktop Data Capturing
-![Desktop Data Capturing](Desktop.jpg)
+![Desktop Data Capturing](https://github.com/Jerin-Abraham-George/UIPATH-Botman-Begins/blob/main/Data-Capturing-Robot/DesktopDataCapturing.jpg)
 
 ---
 
