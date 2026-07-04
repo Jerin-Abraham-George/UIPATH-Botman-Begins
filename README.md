@@ -1,6 +1,6 @@
 # 🤖 UiPath Automation Portfolio
 
-A structured collection of automation workflows built using UiPath Studio, demonstrating practical application of robotic process automation (RPA) principles.
+A structured portfolio of UiPath automation workflows demonstrating practical use cases, clean logic, and scalable design.
 
 ## Overview
 
